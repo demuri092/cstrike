@@ -1,0 +1,17 @@
+// radar map description file for zm_restart_v3.bsp
+
+radar
+{
+	image		"gfx/hud/radar/maps/zm_restart_v3.webp"
+	pos_x		-64	// center world coordinate
+	pos_y		-64
+	pos_z		588
+	height		23
+	scale		2.67
+	rotated		true
+	priority	false	// radar map image should be prioritized over overview map or not?
+
+	objectives
+	{
+	}
+}
